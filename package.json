@@ -1,0 +1,22 @@
+{
+  "name": "playwright-demo-qa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyszardP/playwright-demo-qa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyszardP/playwright-demo-qa/issues"
+  },
+  "homepage": "https://github.com/RyszardP/playwright-demo-qa#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.10.0"
+  }
+}
